@@ -1,4 +1,4 @@
-module github.com/whitexwc/hello-module
+module github.com/whitexwc/hello_module
 
 go 1.19
 
